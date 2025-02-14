@@ -1,3 +1,5 @@
+---
+
 ## شمارش سکه با هوش مصنوعی 🪙🇮🇷
 
 [](https://github.com/EhsanNaderlou/profile_images/blob/master/coin.jpg)
@@ -9,8 +11,3 @@
 
 
 ---
- 🔴ویذیویی از عملکرد پروژه :
- 
-![](https://github.com/EhsanNaderlou/profile_images/blob/master/coin.gif)
-https://github.com/EhsanAiDev/coin_detection
-# coin_detection
